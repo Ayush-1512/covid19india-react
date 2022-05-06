@@ -16,7 +16,7 @@ import {
 import {Helmet} from 'react-helmet';
 import useSWR from 'swr';
 
-const VOLUNTEERS_DOMAIN = 'https://volunteers.covid19india.org';
+const VOLUNTEERS_DOMAIN = '#';
 const PLACEHOLDER_IMG = 'placeholder.jpg';
 
 function Member({className, style, name, bio, link, image, socials = {}}) {

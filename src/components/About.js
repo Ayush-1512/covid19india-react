@@ -19,7 +19,7 @@ function About() {
   return (
     <>
       <Helmet>
-        <title>About - covid19india.org</title>
+        <title>Covid 19 Analyzer</title>
         <meta
           name="title"
           content="Coronavirus Outbreak in India: Latest Map and Case Count"

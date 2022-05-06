@@ -1,5 +1,5 @@
 const Blog = () => {
-  window.location.replace('https://blog.covid19india.org');
+  window.location.replace('#');
 };
 
 export default Blog;
